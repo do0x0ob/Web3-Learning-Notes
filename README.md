@@ -6,6 +6,6 @@ Update as my learning journey goes by🍻
 
 ### Contents List  
 ```
-1. SheltieToken.Sol | Solidity -> a very first simple contract demo
+1. 1_SheltieToken.Sol | Solidity -> a very first simple contract demo
 ```
 
